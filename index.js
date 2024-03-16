@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bot Puffoso"];
+const statusMessages = ["Scappando dal Matrix..."];
 
 
 let currentIndex = 0;
